@@ -1,0 +1,8 @@
+{
+    "name": "zTree.v3",
+    "version": "3.5.17",
+    "main": "js/jquery/ztree.all-3.5.js",
+    "dependencies": {
+        "component/jquery": "1.0.0"
+    }
+}
